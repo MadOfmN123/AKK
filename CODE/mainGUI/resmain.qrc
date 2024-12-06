@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../IMAGES/G.U.I Material/Buttons/Quit.png</file>
+        <file>../../IMAGES/G.U.I Material/Buttons/Start.png</file>
+        <file>C:/Users/HI/Downloads/Start-removebg-preview.png</file>
+        <file>C:/Users/HI/Downloads/Quit-removebg-preview.png</file>
+        <file>C:/Users/HI/Downloads/flat-design-login-logout-label-collection_23-2149925332-removebg-preview.png</file>
+        <file>C:/Users/HI/Downloads/5379967-removebg-preview.png</file>
+        <file>C:/Users/HI/Downloads/LOGIN-removebg-preview.png</file>
+        <file>C:/Users/HI/Downloads/LOGIN_prev_ui.png</file>
+    </qresource>
+</RCC>
